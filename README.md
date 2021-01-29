@@ -9,7 +9,11 @@ Description : Desctiption
 Author      : LEU Saro
 Date        : yyyy.mm.dd Version 1.0
 ```
-## separation
+## Structure
+```
+const string CAPS
+string camelCase
+```
 ### Class
 ```
 Constants
@@ -19,11 +23,17 @@ Constructor
     Designated
 Methods
 ```
-### Methods
+### Method
 ```
 Initialization
 Processing
 Outpout
+```
+### Test
+```
+Arrange
+Act
+Test
 ```
 ## Abbreviations
 This is a non-exaustive list of abbreviations
